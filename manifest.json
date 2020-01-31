@@ -1,0 +1,8 @@
+{
+  "domain": "blebox",
+  "name": "Blebox platform",
+  "documentation": "https://github.com/pszypowicz/blebox-platform",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
